@@ -10,8 +10,8 @@
 # 𝖘𝖙𝖆𝖙𝖘:
 ![](https://github-readme-stats.vercel.app/api?username=azery&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=azery&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=azery&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![Codewars](https://github.r2v.ch/codewars?user=zandero&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=azery&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![Codewars](https://github.r2v.ch/codewars?user=zandero&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)<br/>
 
 # 𝖌𝖎𝖙𝖍𝖚𝖇 𝖙𝖗𝖔𝖕𝖍𝖎𝖊𝖘:
 ![](https://github-profile-trophy.vercel.app/?username=azery&theme=neon&no-frame=false&no-bg=true&margin-w=4)
