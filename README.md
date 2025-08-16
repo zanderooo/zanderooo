@@ -1,25 +1,62 @@
-# 𝖆𝖇𝖔𝖚𝖙 𝖒𝖊:
-xd
+# Socials
+───────────────────────────────
+**Discord:** `kozuuh`  
 
 
-# 𝖘𝖔𝖈𝖎𝖆𝖑𝖘:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kozuuh) 
+# Tech Stack
+───────────────────────────────
 
-# 𝖙𝖊𝖈𝖍 𝖘𝖙𝖆𝖈𝖐:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=flat&logo=pi-hole&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
-# 𝖘𝖙𝖆𝖙𝖘:
-![](https://github-readme-stats.vercel.app/api?username=zanderooo&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zanderooo&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zanderooo&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/><br/>
-![Codewars](https://github.r2v.ch/codewars?user=zandero&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)<br/><br/>
+**Languages & Frameworks**  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-%23121011.svg?style=flat&logo=godot-engine&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)  
 
-# 𝖌𝖎𝖙𝖍𝖚𝖇 𝖙𝖗𝖔𝖕𝖍𝖎𝖊𝖘:
-![](https://github-profile-trophy.vercel.app/?username=zanderooo&theme=neon&no-frame=false&no-bg=true&margin-w=4)
+**Creative Tools**  
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-000?style=flat&logo=Aseprite&logoColor=7D929E)
+![Adobe Photoshop](https://img.shields.io/badge/photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/premiere_pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/davinci_resolve-233648?style=flat&logo=davinciresolve&logoColor=08f)
 
-# 𝖙𝖔𝖕 𝖈𝖔𝖓𝖙𝖗𝖎𝖇𝖚𝖙𝖊𝖉 𝖗𝖊𝖕𝖔:
-![](https://github-contributor-stats.vercel.app/api?username=zanderooo&limit=5&theme=neon&combine_all_yearly_contributions=true)
+**Workflow**  
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=zanderooo&icon=1&color=6)](https://visitcount.itsvg.in)
+**Operating Systems / Setup**  
+- Windows 11 IoT LTSC Enterprise  
+- Linux (CashyOS + Hyprland)  
+- Windhawk tweaks on Windows  
+- MusicBee as my daily music player  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# Stats
+───────────────────────────────
+![](https://github-readme-stats.vercel.app/api?username=zanderooo&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=zanderooo&theme=transparent&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zanderooo&theme=transparent&hide_border=true&layout=compact)  
+
+![](https://github.r2v.ch/codewars?user=zandero&name=true&top_languages=true&stroke=%23595959&theme=dark)
+
+
+# GitHub Trophies
+───────────────────────────────
+![](https://github-profile-trophy.vercel.app/?username=zanderooo&theme=algolia&no-frame=true&no-bg=true&margin-w=8)
+
+
+# Top Repositories
+───────────────────────────────
+![](https://github-contributor-stats.vercel.app/api?username=zanderooo&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+# Visitors
+───────────────────────────────
+[![](https://visitcount.itsvg.in/api?id=zanderooo&icon=0&color=6)](https://visitcount.itsvg.in)
