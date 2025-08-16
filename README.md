@@ -1,5 +1,3 @@
----
-
 # Socials
 
 - **Discord:** `kozuuh`  
